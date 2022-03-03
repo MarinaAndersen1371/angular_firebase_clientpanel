@@ -1,0 +1,10 @@
+.clpanel {
+  background: blue;
+}
+
+.logout {
+  color: white;
+}
+.logout:hover {
+  cursor: pointer;
+}
